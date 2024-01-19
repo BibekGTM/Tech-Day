@@ -15,3 +15,10 @@ div.scrollmenu {
   div.scrollmenu a:hover { 
     background-color: #777; 
   } 
+
+body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            scroll-behavior: smooth;
+}
